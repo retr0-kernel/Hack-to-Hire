@@ -1,5 +1,7 @@
 # Hack-to-Hire
 
+#### VIDEO EXPLANATION - [Video](https://youtu.be/nrrO0XXBOkE)
+
 ![Landing Page](images/landingPage.png)
 
 ## Table of Contents
