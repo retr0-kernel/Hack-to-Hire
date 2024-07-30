@@ -47,7 +47,7 @@ Flight Status Tracker is a comprehensive web application designed to provide rea
 
 ### Additional Services
 - Twilio for SMS notifications
-![SMS](images/mobileNotifications.png)
+![SMS](images/mobileNotifications.jpf)
 - SendGrid for email notifications
 ![Mail](images/mailNotifications.png)
 - Firebase for push notifications
